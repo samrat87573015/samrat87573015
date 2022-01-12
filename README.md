@@ -1,4 +1,4 @@
-![I am freelancer and WordPress expert.](http://developersamrat.xyz/wp-content/uploads/2022/01/1.png)
+http://developersamrat.xyz/wp-content/uploads/2022/01/1.png
 ### Hi there 👋, my name is Hasibur Rahman Samrat 
 #### I am freelancer and WordPress expert.
 
