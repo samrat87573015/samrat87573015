@@ -1,15 +1,18 @@
+👋 Hey there! I'm samrat, a seasoned full-stack web developer with a knack for bringing digital visions to life. With a strong foundation in frontend technologies like HTML, CSS, and JavaScript, I meticulously craft user interfaces that captivate and engage.
 
-### Hi there 👋, my name is Hasibur Rahman Samrat 
-#### I am freelancer and WordPress expert.
+💻 On the frontend, I'm fluent in frameworks like Bootstrap and Tailwind CSS, allowing me to design responsive and visually stunning websites with ease. I also dive deep into SCSS to maintain clean and maintainable stylesheets, ensuring scalability and efficiency in every project.
 
-I am a WordPress expert and WordPress theme developer working for the last 2 years. I have experience working with local clients along with clients from all around the world. I have vast knowledge in HTML, CSS, Javascript, JQuery, WordPress, PHP development, and so on. The work I provide is of the highest quality, fully responsive, and tested in a wide range of devices
+🌐 But my skills don't stop there! I thrive in the backend realm too, adeptly handling databases with MySQL and crafting robust web applications with Laravel. Whether it's architecting complex data structures or optimizing database queries for peak performance, I've got the backend covered.
 
-Skills:  / REACT / JS / HTML / CSS/WORDPRESS
+🚀 When it comes to dynamic and interactive user experiences, Vue.js is my go-to framework. I leverage its power to build seamless frontend applications, simplifying complex UI challenges and delivering unparalleled user satisfaction.
 
-- 🔭 I’m currently working on WordPress 
-- 🌱 I’m currently learning JavaScript 
-- 🤔 I’m looking for help with react 
-- 💬 Ask me about www.samrat87573015@gmail.com 
+🔧 And let's not forget WordPress - I'm no stranger to customizing and extending its functionality to meet unique project requirements. With expertise in Elementor widget development, I empower WordPress users to enhance their websites with bespoke features and tailored solutions.
+
+💡 From conceptualization to deployment, I'm committed to delivering top-notch web solutions that exceed expectations. With a meticulous eye for detail and a passion for innovation, I thrive on pushing the boundaries of what's possible in the digital realm.
+
+
+
+Skills:  HTML/CSS/ JavaScript / jQuery/Bootstrap/tailwind css/ scss/ Vue js/ MySQL/ Laravel/ WordPress/ WordPress theme development/ elementor widget development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samrat87573015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasibur-rahman-samrat-b9877121a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developesamrat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://developersamrat.xyz/)  
