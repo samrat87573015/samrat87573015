@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an experienced Laravel developer passionate ab
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/RESTful_API-00BFFF?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
-  <img src="https://img.shields.io/badge/Agile-FF8C00?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+
 </p>
 
 ---
