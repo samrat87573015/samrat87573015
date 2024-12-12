@@ -5,9 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat87573015&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/samrat87573015)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samrat87573015)  
-
-![Profile views](https://gpvc.arturio.dev/samrat87573015)  
+ 
 
