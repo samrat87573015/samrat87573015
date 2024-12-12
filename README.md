@@ -4,7 +4,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat87573015&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samrat87573015)  
 
 ![GitHub metrics](https://metrics.lecoq.io/samrat87573015)  
 
