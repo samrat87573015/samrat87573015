@@ -33,5 +33,4 @@ Welcome to my GitHub profile! I'm an experienced Laravel developer passionate ab
 - **LinkedIn:** [HASIBUR RAHMAN SHAMRAT](https://www.linkedin.com/in/hasibur-rahman-shamrat-b9877121a/)
 - **Location:** Jhenaidah, Bangladesh
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrat87573015)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrat87573015&layout=compact&langs_count=10)
